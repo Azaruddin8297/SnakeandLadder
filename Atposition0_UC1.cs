@@ -71,9 +71,6 @@ namespace SnakeandLadder
                 Console.WriteLine("Press Enter key to roll the dice...");
                 Console.ReadLine();
             }
-
-            Console.WriteLine("Congratulations! You reached position 100 and won the game!");
-            Console.ReadLine();
         }
 }
 }
